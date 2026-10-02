@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101c"/><stop offset="1" stop-color="#111e36"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#79e6ff"/><stop offset="1" stop-color="#a89bff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1020" cy="80" r="250" fill="#79e6ff" opacity=".08"/>
+  <circle cx="170" cy="560" r="260" fill="#a89bff" opacity=".08"/>
+  <rect x="66" y="70" width="56" height="56" rx="17" fill="url(#accent)"/>
+  <path d="M83 84h12v14h10V84h12v28h-12v-10H95v10H83z" fill="#07101c"/>
+  <text x="140" y="109" fill="#edf5ff" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="30">HabitTracker <tspan fill="#79e6ff">Pro</tspan></text>
+  <text x="70" y="240" fill="#edf5ff" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="76">Build better days.</text>
+  <text x="70" y="330" fill="url(#accent)" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="76">Track what matters.</text>
+  <text x="72" y="388" fill="#9db0c8" font-family="Arial,Helvetica,sans-serif" font-size="24">Free browser-based habit tracking · 365-day challenge · XP · analytics</text>
+  <rect x="760" y="434" width="350" height="88" rx="20" fill="#102138" stroke="#79e6ff" stroke-opacity=".18"/>
+  <text x="790" y="469" fill="#7b94ad" font-family="Arial,Helvetica,sans-serif" font-size="16">TODAY</text>
+  <text x="790" y="505" fill="#edf5ff" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="31">83% complete</text>
+</svg>

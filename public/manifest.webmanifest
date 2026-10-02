@@ -1,0 +1,13 @@
+{
+  "name": "HabitTracker Pro",
+  "short_name": "HabitTracker",
+  "start_url": "/app.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07101c",
+  "theme_color": "#07101c",
+  "description": "A free, browser-based habit tracker with streaks, XP, a 365-day challenge, goals and analytics.",
+  "icons": [
+    {"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
