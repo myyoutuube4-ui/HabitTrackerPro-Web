@@ -23,3 +23,5 @@ npm run dev
 ## Important
 
 Replace the `YOUR-DOMAIN.example` placeholders with the real domain before publishing. Do not publish a fake AdSense publisher ID. Review legal/contact content against the final site configuration before requesting an AdSense review.
+## Netlify/Vite build fix
+The public HTML pages use module loading for the shared `site.js`, and the homepage canonical URL is an absolute placeholder URL so Vite does not treat `/` as a filesystem asset directory during multi-page builds. Replace `YOUR-DOMAIN.example` before production launch.
